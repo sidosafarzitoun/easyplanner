@@ -1,94 +1,159 @@
 {
-  "users":[
-{
- "id": "1",
-"@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/C9FB643FF9B5FCADC12581D000360CEF",
-"@link": {
-"rel": "document",
-"href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/C9FB643FF9B5FCADC12581D000360CEF"
-},
-
-"LastName": "Dumont",
-"FirstName": "Henri",
-"Address": "321 rue de la gare",
-"PostalCode": "69001",
-"City": "Lyon",
-"BlockNumber": "5",
-"AppartNumber": "25",
-"CareTakerLastName": "Conte",
-"CareTakerFirstName": "Maurice",
-"CareTakereMail": "c.maurice@immo.com",
-"CareTakerBAL": "mail/DGD.nsf",
-"PhoneNumber": "0472168888",
-"MobilePhoneNumber": "0601020304",
-"Email": "henri.dumont@yahoo.fr"
-},
-{
-  "id": "2",
-"@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/F84B38E697F90253C12581D000350BAA",
-"@link": {
-"rel": "document",
-"href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/F84B38E697F90253C12581D000350BAA"
-},
-
-"LastName": "Durand",
-"FirstName": "Robert",
-"Address": "18 rue Bourgelat",
-"PostalCode": "69002",
-"City": "Lyon",
-"BlockNumber": "3",
-"AppartNumber": "15",
-"CareTakerLastName": "Dupont",
-"CareTakerFirstName": "François",
-"CareTakereMail": "f.dupont@email.fr",
-"CareTakerBAL": "mail/gdiscus.nsf",
-"PhoneNumber": "0472168889",
-"MobilePhoneNumber": "0602030405",
-"Email": "robert.durand@gmail.com"
-},
-{
-  "id": "3",
-"@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/91428CA02B30C868C12581D800356286",
-"@link": {
-"rel": "document",
-"href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/91428CA02B30C868C12581D800356286"
-},
-"LastName": "Tanche",
-"FirstName": "Martine",
-"Address": "45 rue Bourgelat",
-"PostalCode": "69002",
-"City": "Lyon",
-"BlockNumber": "4",
-"AppartNumber": "22",
-"CareTakerLastName": "Hebert",
-"CareTakerFirstName": "Yoann",
-"CareTakereMail": "y.hebert@email.fr",
-"CareTakerBAL": "mail/stanche.nsf",
-"PhoneNumber": "0472168890",
-"MobilePhoneNumber": "0604050607",
-"Email": "martinelaTanche@gmail.com"
-},
-{
-  "id": "4",
-"@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/DF557DEBD0F57D46C12581E7004B5CC7",
-"@link": {
-"rel": "document",
-"href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/DF557DEBD0F57D46C12581E7004B5CC7"
-},
-"LastName": "Truite",
-"FirstName": "Alexia",
-"Address": "45 rue Bourgelat",
-"PostalCode": "69002",
-"City": "Lyon",
-"BlockNumber": "4",
-"AppartNumber": "22",
-"CareTakerLastName": "Johnny",
-"CareTakerFirstName": "Weissmuller",
-"CareTakereMail": "j.weissmuller@email.fr",
-"CareTakerBAL": "mail/atruite.nsf",
-"PhoneNumber": "0472168891",
-"MobilePhoneNumber": "0606060606",
-"Email": "alaTruite@yahoo.fr"
+    "users": [
+        {
+            "id": "1",
+            "@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/C9FB643FF9B5FCADC12581D000360CEF",
+            "@link": {
+                "rel": "document",
+                "href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/C9FB643FF9B5FCADC12581D000360CEF"
+            },
+            "LastName": "Dumont",
+            "FirstName": "Henri",
+            "Address": "321 rue de la gare",
+            "PostalCode": "69001",
+            "City": "Lyon",
+            "BlockNumber": "5",
+            "AppartNumber": "25",
+            "CareTakerLastName": "Conte",
+            "CareTakerFirstName": "Maurice",
+            "CareTakereMail": "c.maurice@immo.com",
+            "CareTakerBAL": "mail/DGD.nsf",
+            "PhoneNumber": "0472168888",
+            "MobilePhoneNumber": "0601020304",
+            "Email": "henri.dumont@yahoo.fr"
+        },
+        {
+            "id": "2",
+            "@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/F84B38E697F90253C12581D000350BAA",
+            "@link": {
+                "rel": "document",
+                "href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/F84B38E697F90253C12581D000350BAA"
+            },
+            "LastName": "Durand",
+            "FirstName": "Robert",
+            "Address": "18 rue Bourgelat",
+            "PostalCode": "69002",
+            "City": "Lyon",
+            "BlockNumber": "3",
+            "AppartNumber": "15",
+            "CareTakerLastName": "Dupont",
+            "CareTakerFirstName": "François",
+            "CareTakereMail": "f.dupont@email.fr",
+            "CareTakerBAL": "mail/gdiscus.nsf",
+            "PhoneNumber": "0472168889",
+            "MobilePhoneNumber": "0602030405",
+            "Email": "robert.durand@gmail.com"
+        },
+        {
+            "id": "3",
+            "@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/91428CA02B30C868C12581D800356286",
+            "@link": {
+                "rel": "document",
+                "href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/91428CA02B30C868C12581D800356286"
+            },
+            "LastName": "Tanche",
+            "FirstName": "Martine",
+            "Address": "45 rue Bourgelat",
+            "PostalCode": "69002",
+            "City": "Lyon",
+            "BlockNumber": "4",
+            "AppartNumber": "22",
+            "CareTakerLastName": "Hebert",
+            "CareTakerFirstName": "Yoann",
+            "CareTakereMail": "y.hebert@email.fr",
+            "CareTakerBAL": "mail/stanche.nsf",
+            "PhoneNumber": "0472168890",
+            "MobilePhoneNumber": "0604050607",
+            "Email": "martinelaTanche@gmail.com"
+        },
+        {
+            "id": "4",
+            "@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/DF557DEBD0F57D46C12581E7004B5CC7",
+            "@link": {
+                "rel": "document",
+                "href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/DF557DEBD0F57D46C12581E7004B5CC7"
+            },
+            "LastName": "Truite",
+            "FirstName": "Alexia",
+            "Address": "45 rue Bourgelat",
+            "PostalCode": "69002",
+            "City": "Lyon",
+            "BlockNumber": "4",
+            "AppartNumber": "22",
+            "CareTakerLastName": "Johnny",
+            "CareTakerFirstName": "Weissmuller",
+            "CareTakereMail": "j.weissmuller@email.fr",
+            "CareTakerBAL": "mail/atruite.nsf",
+            "PhoneNumber": "0472168891",
+            "MobilePhoneNumber": "0606060606",
+            "Email": "alaTruite@yahoo.fr"
+        }
+    ]
 }
-]
-  }
+  
+  {
+    "events": [
+        {
+            "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200907T070000Z",
+            "id": "6899-56404680-15-1CD9ED60",
+            "summary": "Point Hedbomadaire Pole Collaborative Solution",
+            "start": {
+                "date": "2020-09-07",
+                "time": "07:00:00",
+                "utc": true
+            },
+            "end": {
+                "date": "2020-09-07",
+                "time": "08:00:00",
+                "utc": true
+            },
+            "recurrenceId": "20200907T070000Z",
+            "class": "public",
+            "transparency": "opaque",
+            "sequence": 0,
+            "x-lotus-organizer": {
+                "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+            },
+            "x-lotus-summarydataonly": {
+                "data": "TRUE"
+            },
+            "x-lotus-noticetype": {
+                "data": "A"
+            },
+            "x-lotus-appttype": {
+                "data": "3"
+            }
+        },
+        {
+            "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200914T070000Z",
+            "id": "6899-56404680-15-1CD9ED60",
+            "summary": "Point Hedbomadaire Pole Collaborative Solution",
+            "start": {
+                "date": "2020-09-14",
+                "time": "07:00:00",
+                "utc": true
+            },
+            "end": {
+                "date": "2020-09-14",
+                "time": "08:00:00",
+                "utc": true
+            },
+            "recurrenceId": "20200914T070000Z",
+            "class": "public",
+            "transparency": "opaque",
+            "sequence": 0,
+            "x-lotus-organizer": {
+                "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+            },
+            "x-lotus-summarydataonly": {
+                "data": "TRUE"
+            },
+            "x-lotus-noticetype": {
+                "data": "A"
+            },
+            "x-lotus-appttype": {
+                "data": "3"
+            }
+        }
+    ]
+}
