@@ -88,10 +88,7 @@
             "MobilePhoneNumber": "0606060606",
             "Email": "alaTruite@yahoo.fr"
         }
-    ]
-}
-  
-  {
+    ],
     "events": [
         {
             "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200907T070000Z",
