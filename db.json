@@ -1,6 +1,7 @@
 {
   "users":[
 {
+ "id": "1",
 "@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/C9FB643FF9B5FCADC12581D000360CEF",
 "@link": {
 "rel": "document",
@@ -28,6 +29,7 @@
 "Email": "henri.dumont@yahoo.fr"
 },
 {
+  "id": "2",
 "@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/F84B38E697F90253C12581D000350BAA",
 "@link": {
 "rel": "document",
@@ -55,6 +57,7 @@
 "Email": "robert.durand@gmail.com"
 },
 {
+  "id": "3",
 "@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/91428CA02B30C868C12581D800356286",
 "@link": {
 "rel": "document",
@@ -82,6 +85,7 @@
 "Email": "martinelaTanche@gmail.com"
 },
 {
+  "id": "3",
 "@href": "/projets/interne/demo/locataires.nsf/api/data/collections/name/vPerson/unid/DF557DEBD0F57D46C12581E7004B5CC7",
 "@link": {
 "rel": "document",
