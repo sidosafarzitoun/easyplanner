@@ -114,3 +114,1556 @@
 }
 ]
   }
+{
+"events": [
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200810T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-08-10",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-08-10",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20200810T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200817T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-08-17",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-08-17",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20200817T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200824T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-08-24",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-08-24",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20200824T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200831T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-08-31",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-08-31",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20200831T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200907T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-09-07",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-09-07",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20200907T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200914T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-09-14",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-09-14",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20200914T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200921T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-09-21",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-09-21",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20200921T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200928T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-09-28",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-09-28",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20200928T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201005T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-10-05",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-10-05",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20201005T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201012T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-10-12",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-10-12",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20201012T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201019T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-10-19",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-10-19",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20201019T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201026T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-10-26",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-10-26",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20201026T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201102T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-11-02",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-11-02",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20201102T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201109T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-11-09",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-11-09",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20201109T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201116T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-11-16",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-11-16",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20201116T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201123T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-11-23",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-11-23",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20201123T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201130T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-11-30",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-11-30",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20201130T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201207T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-12-07",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-12-07",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20201207T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201214T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-12-14",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-12-14",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20201214T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201221T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-12-21",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-12-21",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20201221T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20201228T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2020-12-28",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2020-12-28",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20201228T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210104T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-01-04",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-01-04",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210104T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210111T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-01-11",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-01-11",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210111T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210118T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-01-18",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-01-18",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210118T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210125T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-01-25",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-01-25",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210125T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210201T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-02-01",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-02-01",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210201T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210208T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-02-08",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-02-08",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210208T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210215T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-02-15",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-02-15",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210215T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210222T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-02-22",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-02-22",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210222T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210301T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-03-01",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-03-01",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210301T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210308T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-03-08",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-03-08",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210308T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210315T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-03-15",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-03-15",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210315T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210322T080000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-03-22",
+"time": "08:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-03-22",
+"time": "09:00:00",
+"utc": true
+},
+"recurrenceId": "20210322T080000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210329T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-03-29",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-03-29",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210329T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210405T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-04-05",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-04-05",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210405T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210412T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-04-12",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-04-12",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210412T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210419T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-04-19",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-04-19",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210419T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210426T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-04-26",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-04-26",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210426T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210503T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-05-03",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-05-03",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210503T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210510T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-05-10",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-05-10",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210510T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210517T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-05-17",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-05-17",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210517T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/2AE788D304B284E7C1257CE0003A5FB5-Lotus_Notes_Generated/20210523",
+"id": "2AE788D304B284E7C1257CE0003A5FB5-Lotus_Notes_Generated",
+"summary": "gloups",
+"start": {
+"date": "2021-05-23"
+},
+"end": {
+"date": "2021-05-24"
+},
+"recurrenceId": "20210523",
+"class": "public",
+"transparency": "transparent",
+"sequence": 0,
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-appttype": {
+"data": "1"
+},
+"alarm": [
+{
+"action": "DISPLAY",
+"trigger": {
+"value": "-P1D"
+},
+"description": "gloups"
+}
+]
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210524T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-05-24",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-05-24",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210524T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210531T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-05-31",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-05-31",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210531T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210607T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-06-07",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-06-07",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210607T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210614T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-06-14",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-06-14",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210614T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210621T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-06-21",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-06-21",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210621T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210628T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-06-28",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-06-28",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210628T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210705T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-07-05",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-07-05",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210705T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+},
+{
+"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20210712T070000Z",
+"id": "6899-56404680-15-1CD9ED60",
+"summary": "Point Hedbomadaire Pole Collaborative Solution",
+"start": {
+"date": "2021-07-12",
+"time": "07:00:00",
+"utc": true
+},
+"end": {
+"date": "2021-07-12",
+"time": "08:00:00",
+"utc": true
+},
+"recurrenceId": "20210712T070000Z",
+"class": "public",
+"transparency": "opaque",
+"sequence": 0,
+"x-lotus-organizer": {
+"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+},
+"x-lotus-summarydataonly": {
+"data": "TRUE"
+},
+"x-lotus-noticetype": {
+"data": "A"
+},
+"x-lotus-appttype": {
+"data": "3"
+}
+}
+]
+}
