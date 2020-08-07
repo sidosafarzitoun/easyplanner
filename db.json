@@ -7,12 +7,7 @@
 "rel": "document",
 "href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/C9FB643FF9B5FCADC12581D000360CEF"
 },
-"@entryid": "1-C9FB643FF9B5FCADC12581D000360CEF",
-"@unid": "C9FB643FF9B5FCADC12581D000360CEF",
-"@noteid": "8FA",
-"@position": "1",
-"@siblings": 4,
-"@form": "Person",
+
 "LastName": "Dumont",
 "FirstName": "Henri",
 "Address": "321 rue de la gare",
@@ -35,12 +30,7 @@
 "rel": "document",
 "href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/F84B38E697F90253C12581D000350BAA"
 },
-"@entryid": "2-F84B38E697F90253C12581D000350BAA",
-"@unid": "F84B38E697F90253C12581D000350BAA",
-"@noteid": "8F6",
-"@position": "2",
-"@siblings": 4,
-"@form": "Person",
+
 "LastName": "Durand",
 "FirstName": "Robert",
 "Address": "18 rue Bourgelat",
@@ -63,12 +53,6 @@
 "rel": "document",
 "href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/91428CA02B30C868C12581D800356286"
 },
-"@entryid": "3-91428CA02B30C868C12581D800356286",
-"@unid": "91428CA02B30C868C12581D800356286",
-"@noteid": "8FE",
-"@position": "3",
-"@siblings": 4,
-"@form": "Person",
 "LastName": "Tanche",
 "FirstName": "Martine",
 "Address": "45 rue Bourgelat",
@@ -91,12 +75,6 @@
 "rel": "document",
 "href": "/projets/interne/demo/locataires.nsf/api/data/documents/unid/DF557DEBD0F57D46C12581E7004B5CC7"
 },
-"@entryid": "4-DF557DEBD0F57D46C12581E7004B5CC7",
-"@unid": "DF557DEBD0F57D46C12581E7004B5CC7",
-"@noteid": "902",
-"@position": "4",
-"@siblings": 4,
-"@form": "Person",
 "LastName": "Truite",
 "FirstName": "Alexia",
 "Address": "45 rue Bourgelat",
@@ -113,70 +91,4 @@
 "Email": "alaTruite@yahoo.fr"
 }
 ]
-  }
-{
-"events": [
-{
-"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200907T070000Z",
-"id": "6899-56404680-15-1CD9ED60",
-"summary": "Point Hedbomadaire Pole Collaborative Solution",
-"start": {
-"date": "2020-09-07",
-"time": "07:00:00",
-"utc": true
-},
-"end": {
-"date": "2020-09-07",
-"time": "08:00:00",
-"utc": true
-},
-"recurrenceId": "20200907T070000Z",
-"class": "public",
-"transparency": "opaque",
-"sequence": 0,
-"x-lotus-organizer": {
-"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
-},
-"x-lotus-summarydataonly": {
-"data": "TRUE"
-},
-"x-lotus-noticetype": {
-"data": "A"
-},
-"x-lotus-appttype": {
-"data": "3"
-}
-},
-{
-"href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200914T070000Z",
-"id": "6899-56404680-15-1CD9ED60",
-"summary": "Point Hedbomadaire Pole Collaborative Solution",
-"start": {
-"date": "2020-09-14",
-"time": "07:00:00",
-"utc": true
-},
-"end": {
-"date": "2020-09-14",
-"time": "08:00:00",
-"utc": true
-},
-"recurrenceId": "20200914T070000Z",
-"class": "public",
-"transparency": "opaque",
-"sequence": 0,
-"x-lotus-organizer": {
-"data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
-},
-"x-lotus-summarydataonly": {
-"data": "TRUE"
-},
-"x-lotus-noticetype": {
-"data": "A"
-},
-"x-lotus-appttype": {
-"data": "3"
-}
-}
-  ]
   }
