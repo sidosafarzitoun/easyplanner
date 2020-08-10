@@ -91,66 +91,268 @@
     ],
     "events": [
         {
-            "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200907T070000Z",
-            "id": "6899-56404680-15-1CD9ED60",
-            "summary": "Point Hedbomadaire Pole Collaborative Solution",
-            "start": {
-                "date": "2020-09-07",
-                "time": "07:00:00",
-                "utc": true
-            },
-            "end": {
-                "date": "2020-09-07",
-                "time": "08:00:00",
-                "utc": true
-            },
-            "recurrenceId": "20200907T070000Z",
-            "class": "public",
-            "transparency": "opaque",
-            "sequence": 0,
-            "x-lotus-organizer": {
-                "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
-            },
-            "x-lotus-summarydataonly": {
-                "data": "TRUE"
-            },
-            "x-lotus-noticetype": {
-                "data": "A"
-            },
-            "x-lotus-appttype": {
-                "data": "3"
-            }
+            "id": "1",
+            "evenements": [
+                {
+                    "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200907T070000Z",
+                    "id": "6899-56404680-15-1CD9ED60",
+                    "summary": "Point Hedbomadaire Pole Collaborative Solution",
+                    "start": {
+                        "date": "2020-08-15",
+                        "time": "07:00:00",
+                        "utc": true
+                    },
+                    "end": {
+                        "date": "2020-08-15",
+                        "time": "08:00:00",
+                        "utc": true
+                    },
+                    "recurrenceId": "20200907T070000Z",
+                    "class": "public",
+                    "transparency": "opaque",
+                    "sequence": 0,
+                    "x-lotus-organizer": {
+                        "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+                    },
+                    "x-lotus-summarydataonly": {
+                        "data": "TRUE"
+                    },
+                    "x-lotus-noticetype": {
+                        "data": "A"
+                    },
+                    "x-lotus-appttype": {
+                        "data": "3"
+                    }
+                },
+                {
+                    "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200914T070000Z",
+                    "id": "6899-56404680-15-1CD9ED60",
+                    "summary": "Point Hedbomadaire Pole Collaborative Solution",
+                    "start": {
+                        "date": "2020-09-12",
+                        "time": "17:00:00",
+                        "utc": true
+                    },
+                    "end": {
+                        "date": "2020-09-12",
+                        "time": "18:00:00",
+                        "utc": true
+                    },
+                    "recurrenceId": "20200914T070000Z",
+                    "class": "public",
+                    "transparency": "opaque",
+                    "sequence": 0,
+                    "x-lotus-organizer": {
+                        "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+                    },
+                    "x-lotus-summarydataonly": {
+                        "data": "TRUE"
+                    },
+                    "x-lotus-noticetype": {
+                        "data": "A"
+                    },
+                    "x-lotus-appttype": {
+                        "data": "3"
+                    }
+                }
+            ]
         },
         {
-            "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200914T070000Z",
-            "id": "6899-56404680-15-1CD9ED60",
-            "summary": "Point Hedbomadaire Pole Collaborative Solution",
-            "start": {
-                "date": "2020-09-14",
-                "time": "07:00:00",
-                "utc": true
+            "id": "2",
+            "evenements": [
+                {
+                    "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200-fakeId2",
+                    "id": "6899-56404680-15-1CD9ED60",
+                    "summary": "Point ponctuel A -fakeId2",
+                    "start": {
+                        "date": "2020-08-25",
+                        "time": "08:00:00",
+                        "utc": true
+                    },
+                    "end": {
+                        "date": "2020-09-25",
+                        "time": "12:00:00",
+                        "utc": true
+                    },
+                    "recurrenceId": "20200907T070000Z",
+                    "class": "public",
+                    "transparency": "opaque",
+                    "sequence": 0,
+                    "x-lotus-organizer": {
+                        "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+                    },
+                    "x-lotus-summarydataonly": {
+                        "data": "TRUE"
+                    },
+                    "x-lotus-noticetype": {
+                        "data": "A"
+                    },
+                    "x-lotus-appttype": {
+                        "data": "3"
+                    }
+                },
+                {
+                    "href": "/mail/DGD.nsf/api/calendar/events/7899-56404680-15-1CD9ED60/20200914T070000Z",
+                    "id": "6899-56404680-fakeId2",
+                    "summary": "Point ponctuel B -fakeId2",
+                    "start": {
+                        "date": "2020-08-11",
+                        "time": "10:00:00",
+                        "utc": true
+                    },
+                    "end": {
+                        "date": "2020-09-11",
+                        "time": "16:00:00",
+                        "utc": true
+                    },
+                    "recurrenceId": "20200914T070000Z",
+                    "class": "public",
+                    "transparency": "opaque",
+                    "sequence": 0,
+                    "x-lotus-organizer": {
+                        "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+                    },
+                    "x-lotus-summarydataonly": {
+                        "data": "TRUE"
+                    },
+                    "x-lotus-noticetype": {
+                        "data": "A"
+                    },
+                    "x-lotus-appttype": {
+                        "data": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "evenements": [{
+                "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200-fakeId3",
+                "id": "6899-56404680-15-1CD9ED60",
+                "summary": "Point ponctuel A -fakeId3",
+                "start": {
+                    "date": "2020-08-13",
+                    "time": "08:00:00",
+                    "utc": true
+                },
+                "end": {
+                    "date": "2020-09-13",
+                    "time": "12:00:00",
+                    "utc": true
+                },
+                "recurrenceId": "20200907T070000Z",
+                "class": "public",
+                "transparency": "opaque",
+                "sequence": 0,
+                "x-lotus-organizer": {
+                    "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+                },
+                "x-lotus-summarydataonly": {
+                    "data": "TRUE"
+                },
+                "x-lotus-noticetype": {
+                    "data": "A"
+                },
+                "x-lotus-appttype": {
+                    "data": "3"
+                }
             },
-            "end": {
-                "date": "2020-09-14",
-                "time": "08:00:00",
-                "utc": true
+            {
+                "href": "/mail/DGD.nsf/api/calendar/events/7899-56404680-15-1CD9ED60/20200914T070000Z",
+                "id": "6899-56404680-fakeId2",
+                "summary": "Point ponctuel B -fakeId3",
+                "start": {
+                    "date": "2020-08-14",
+                    "time": "10:00:00",
+                    "utc": true
+                },
+                "end": {
+                    "date": "2020-09-14",
+                    "time": "11:00:00",
+                    "utc": true
+                },
+                "recurrenceId": "20200914T070000Z",
+                "class": "public",
+                "transparency": "opaque",
+                "sequence": 0,
+                "x-lotus-organizer": {
+                    "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+                },
+                "x-lotus-summarydataonly": {
+                    "data": "TRUE"
+                },
+                "x-lotus-noticetype": {
+                    "data": "A"
+                },
+                "x-lotus-appttype": {
+                    "data": "3"
+                }
+            }]
+        },
+        {
+            "id": "4",
+            "evenements": [{
+                "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200-fakeId4",
+                "id": "6899-56404680-15-1CD9ED60",
+                "summary": "Point ponctuel A -fakeId4",
+                "start": {
+                    "date": "2020-08-18",
+                    "time": "08:00:00",
+                    "utc": true
+                },
+                "end": {
+                    "date": "2020-09-18",
+                    "time": "12:00:00",
+                    "utc": true
+                },
+                "recurrenceId": "20200907T070000Z",
+                "class": "public",
+                "transparency": "opaque",
+                "sequence": 0,
+                "x-lotus-organizer": {
+                    "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+                },
+                "x-lotus-summarydataonly": {
+                    "data": "TRUE"
+                },
+                "x-lotus-noticetype": {
+                    "data": "A"
+                },
+                "x-lotus-appttype": {
+                    "data": "3"
+                }
             },
-            "recurrenceId": "20200914T070000Z",
-            "class": "public",
-            "transparency": "opaque",
-            "sequence": 0,
-            "x-lotus-organizer": {
-                "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
-            },
-            "x-lotus-summarydataonly": {
-                "data": "TRUE"
-            },
-            "x-lotus-noticetype": {
-                "data": "A"
-            },
-            "x-lotus-appttype": {
-                "data": "3"
-            }
+            {
+                "href": "/mail/DGD.nsf/api/calendar/events/7899-56404680-15-1CD9ED60/20200914T070000Z",
+                "id": "6899-56404680-fakeId2",
+                "summary": "Point ponctuel B -fakeId4",
+                "start": {
+                    "date": "2020-08-17",
+                    "time": "10:00:00",
+                    "utc": true
+                },
+                "end": {
+                    "date": "2020-08-17",
+                    "time": "11:00:00",
+                    "utc": true
+                },
+                "recurrenceId": "20200914T070000Z",
+                "class": "public",
+                "transparency": "opaque",
+                "sequence": 0,
+                "x-lotus-organizer": {
+                    "data": "CN=Richard CAUMON/OU=LYON/O=NETAPSYS/C=FR"
+                },
+                "x-lotus-summarydataonly": {
+                    "data": "TRUE"
+                },
+                "x-lotus-noticetype": {
+                    "data": "A"
+                },
+                "x-lotus-appttype": {
+                    "data": "3"
+                }
+            }]
         }
     ]
 }
