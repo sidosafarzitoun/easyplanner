@@ -96,15 +96,15 @@
                 {
                     "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200907T070000Z",
                     "id": "6899-56404680-15-1CD9ED60",
-                    "summary": "Point Hedbomadaire Pole Collaborative Solution",
+                    "summary": "PointA fake id 1 ",
                     "start": {
                         "date": "2020-08-15",
-                        "time": "07:00:00",
+                        "time": "09:00:00",
                         "utc": true
                     },
                     "end": {
                         "date": "2020-08-15",
-                        "time": "08:00:00",
+                        "time": "10:00:00",
                         "utc": true
                     }
                     
@@ -112,14 +112,14 @@
                 {
                     "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200914T070000Z",
                     "id": "6899-56404680-15-1CD9ED60",
-                    "summary": "Point Hedbomadaire Pole Collaborative Solution",
+                    "summary": "PointB fake id 1",
                     "start": {
-                        "date": "2020-09-12",
+                        "date": "2020-08-12",
                         "time": "17:00:00",
                         "utc": true
                     },
                     "end": {
-                        "date": "2020-09-12",
+                        "date": "2020-08-12",
                         "time": "18:00:00",
                         "utc": true
                     }
@@ -139,7 +139,7 @@
                         "utc": true
                     },
                     "end": {
-                        "date": "2020-09-25",
+                        "date": "2020-08-25",
                         "time": "12:00:00",
                         "utc": true
                     }
@@ -150,11 +150,11 @@
                     "summary": "Point ponctuel B -fakeId2",
                     "start": {
                         "date": "2020-08-11",
-                        "time": "10:00:00",
+                        "time": "13:30:00",
                         "utc": true
                     },
                     "end": {
-                        "date": "2020-09-11",
+                        "date": "2020-08-11",
                         "time": "16:00:00",
                         "utc": true
                     }
@@ -173,7 +173,7 @@
                     "utc": true
                 },
                 "end": {
-                    "date": "2020-09-13",
+                    "date": "2020-08-13",
                     "time": "12:00:00",
                     "utc": true
                 }
@@ -188,7 +188,7 @@
                     "utc": true
                 },
                 "end": {
-                    "date": "2020-09-14",
+                    "date": "2020-08-14",
                     "time": "11:00:00",
                     "utc": true
                 }
@@ -196,16 +196,7 @@
         },
         {
             "id": "4",
-            "evenements": [{
-                "href": "/mail/DGD.nsf/api/calendar/events/6899-56404680-15-1CD9ED60/20200-fakeId4",
-                "id": "6899-56404680-15-1CD9ED60",
-                "summary": "Point ponctuel A -fakeId4",
-                "start": {
-                    "date": "2020-08-18",
-                    "time": "08:00:00",
-                    "utc": true
-                }
-            },
+            "evenements": [
             {
                 "href": "/mail/DGD.nsf/api/calendar/events/7899-56404680-15-1CD9ED60/20200914T070000Z",
                 "id": "6899-56404680-fakeId2",
